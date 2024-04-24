@@ -10,10 +10,10 @@ const settings = {
 //Home Page
 const greeting = {
   title: "Hello.",
-  title2: "Hrishi",
-  logo_name: "hrishi.p()",
+  title2: "Dhruvik",
+  logo_name: "< dhruvik />",
   nickname: "hrishi1999 / picleric",
-  full_name: "Hrishi Patel",
+  full_name: "Dhruvik Shah",
   subTitle:
     "Full Stack Developer, Machine Learning Enthusiast. Always learning.",
   resumeLink:
