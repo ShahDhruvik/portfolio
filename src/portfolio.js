@@ -12,24 +12,22 @@ const greeting = {
   title: "Hello.",
   title2: "Dhruvik",
   logo_name: "< dhruvik />",
-  nickname: "hrishi1999 / picleric",
+  nickname: "dhruvik1999 / picleric",
   full_name: "Dhruvik Shah",
   subTitle:
     "Full Stack Developer, Machine Learning Enthusiast. Always learning.",
   resumeLink:
     "https://drive.google.com/file/d/1kcvW8P65jWZFeKR6Jopf3nrQLA1qJCwn/view?usp=sharing",
-  mail: "mailto:hrishipatel99@gmail.com",
+  mail: "mailto:dhruvikpatel99@gmail.com",
 };
 
 const socialMediaLinks = {
   /* Your Social Media Link */
-  github: "https://github.com/hrishi1999",
-  linkedin: "https://www.linkedin.com/in/hrishi-patel-ba8476140/",
-  gmail: "hrishipatel99@gmail.com",
+  github: "https://github.com/ShahDhruvik",
+  linkedin: "https://www.linkedin.com/in/shahdhruvik/",
+  gmail: "devep1210@gmail.com",
   gitlab: " ",
   facebook: " ",
-  twitter: "https://twitter.com/hrishi_55",
-  instagram: "https://www.instagram.com/picleric/",
 };
 
 const skills = {
@@ -65,70 +63,70 @@ const skills = {
             color: "#F7DF1E",
           },
         },
-        {
-          skillName: "PHP",
-          fontAwesomeClassname: "simple-icons:php",
-          style: {
-            color: "#7377AD",
-          },
-        },
-        {
-          skillName: "Java",
-          fontAwesomeClassname: "simple-icons:java",
-          style: {
-            color: "#f89820",
-          },
-        },
-        {
-          skillName: "Kotlin",
-          fontAwesomeClassname: "simple-icons:kotlin",
-          style: {
-            color: "#5c79df",
-          },
-        },
-        {
-          skillName: "Dart",
-          fontAwesomeClassname: "simple-icons:dart",
-          style: {
-            color: "#29B0EE",
-          },
-        },
-        {
-          skillName: "Go",
-          fontAwesomeClassname: "simple-icons:go",
-          style: {
-            color: "#00A7D0",
-          },
-        },
-        {
-          skillName: "Visual Basic",
-          fontAwesomeClassname: "simple-icons:dot-net",
-          style: {
-            color: "#029FCE",
-          },
-        },
-        {
-          skillName: "C#",
-          fontAwesomeClassname: "simple-icons:csharp",
-          style: {
-            backgroundColor: "transparent",
-            color: "#3776AB",
-          },
-        },
-        {
-          skillName: "C",
-          fontAwesomeClassname: "simple-icons:c",
-          style: {
-            color: "#E94E32",
-          },
-        },
-        {
-          skillName: "C++",
-          fontAwesomeClassname: "simple-icons:cplusplus",
-          style: {
-            color: "#E94E32",
-          },
-        },
+        // {
+        //   skillName: "PHP",
+        //   fontAwesomeClassname: "simple-icons:php",
+        //   style: {
+        //     color: "#7377AD",
+        //   },
+        // },
+        // {
+        //   skillName: "Java",
+        //   fontAwesomeClassname: "simple-icons:java",
+        //   style: {
+        //     color: "#f89820",
+        //   },
+        // },
+        // {
+        //   skillName: "Kotlin",
+        //   fontAwesomeClassname: "simple-icons:kotlin",
+        //   style: {
+        //     color: "#5c79df",
+        //   },
+        // },
+        // {
+        //   skillName: "Dart",
+        //   fontAwesomeClassname: "simple-icons:dart",
+        //   style: {
+        //     color: "#29B0EE",
+        //   },
+        // },
+        // {
+        //   skillName: "Go",
+        //   fontAwesomeClassname: "simple-icons:go",
+        //   style: {
+        //     color: "#00A7D0",
+        //   },
+        // },
+        // {
+        //   skillName: "Visual Basic",
+        //   fontAwesomeClassname: "simple-icons:dot-net",
+        //   style: {
+        //     color: "#029FCE",
+        //   },
+        // },
+        // {
+        //   skillName: "C#",
+        //   fontAwesomeClassname: "simple-icons:csharp",
+        //   style: {
+        //     backgroundColor: "transparent",
+        //     color: "#3776AB",
+        //   },
+        // },
+        // {
+        //   skillName: "C",
+        //   fontAwesomeClassname: "simple-icons:c",
+        //   style: {
+        //     color: "#E94E32",
+        //   },
+        // },
+        // {
+        //   skillName: "C++",
+        //   fontAwesomeClassname: "simple-icons:cplusplus",
+        //   style: {
+        //     color: "#E94E32",
+        //   },
+        // },
         {
           skillName: "ReactJS",
           fontAwesomeClassname: "simple-icons:react",
@@ -159,27 +157,27 @@ const skills = {
             color: "#439743",
           },
         },
-        {
-          skillName: "GraphQL",
-          fontAwesomeClassname: "simple-icons:graphql",
-          style: {
-            color: "#DE33A6",
-          },
-        },
-        {
-          skillName: "Android App Development",
-          fontAwesomeClassname: "simple-icons:android",
-          style: {
-            color: "#3DDC84",
-          },
-        },
-        {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:flutter",
-          style: {
-            color: "#02569B",
-          },
-        },
+        // {
+        //   skillName: "GraphQL",
+        //   fontAwesomeClassname: "simple-icons:graphql",
+        //   style: {
+        //     color: "#DE33A6",
+        //   },
+        // },
+        // {
+        //   skillName: "Android App Development",
+        //   fontAwesomeClassname: "simple-icons:android",
+        //   style: {
+        //     color: "#3DDC84",
+        //   },
+        // },
+        // {
+        //   skillName: "Flutter",
+        //   fontAwesomeClassname: "simple-icons:flutter",
+        //   style: {
+        //     color: "#02569B",
+        //   },
+        // },
         {
           skillName: "MySQL",
           fontAwesomeClassname: "simple-icons:mysql",
@@ -188,13 +186,13 @@ const skills = {
           },
         },
 
-        {
-          skillName: "Wordpress",
-          fontAwesomeClassname: "simple-icons:wordpress",
-          style: {
-            color: "#207297",
-          },
-        },
+        // {
+        //   skillName: "Wordpress",
+        //   fontAwesomeClassname: "simple-icons:wordpress",
+        //   style: {
+        //     color: "#207297",
+        //   },
+        // },
 
         {
           skillName: "Git",
@@ -267,55 +265,55 @@ const skills = {
         },
       ],
     },
-    {
-      title: "Data Science & AI",
-      fileName: "DataScienceImg",
-      skills: [
-        "⚡ Experience of working with Computer Vision and NLP projects",
-        "⚡ Certifications by deeplearning.ai and Stanford Online",
-        "⚡ Experience with 10+ Projects",
-      ],
-      softwareSkills: [
-        {
-          skillName: "Tensorflow",
-          fontAwesomeClassname: "logos-tensorflow",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
-        {
-          skillName: "Keras",
-          fontAwesomeClassname: "simple-icons:keras",
-          style: {
-            backgroundColor: "white",
-            color: "#D00000",
-          },
-        },
-        {
-          skillName: "PyTorch",
-          fontAwesomeClassname: "logos-pytorch",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
-        {
-          skillName: "Python",
-          fontAwesomeClassname: "ion-logo-python",
-          style: {
-            backgroundColor: "transparent",
-            color: "#3776AB",
-          },
-        },
-        {
-          skillName: "Pandas",
-          fontAwesomeClassname: "simple-icons:pandas",
-          style: {
-            backgroundColor: "transparent",
-            color: "#6E6E6E",
-          },
-        },
-      ],
-    },
+    // {
+    //   title: "Data Science & AI",
+    //   fileName: "DataScienceImg",
+    //   skills: [
+    //     "⚡ Experience of working with Computer Vision and NLP projects",
+    //     "⚡ Certifications by deeplearning.ai and Stanford Online",
+    //     "⚡ Experience with 10+ Projects",
+    //   ],
+    //   softwareSkills: [
+    //     {
+    //       skillName: "Tensorflow",
+    //       fontAwesomeClassname: "logos-tensorflow",
+    //       style: {
+    //         backgroundColor: "transparent",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Keras",
+    //       fontAwesomeClassname: "simple-icons:keras",
+    //       style: {
+    //         backgroundColor: "white",
+    //         color: "#D00000",
+    //       },
+    //     },
+    //     {
+    //       skillName: "PyTorch",
+    //       fontAwesomeClassname: "logos-pytorch",
+    //       style: {
+    //         backgroundColor: "transparent",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Python",
+    //       fontAwesomeClassname: "ion-logo-python",
+    //       style: {
+    //         backgroundColor: "transparent",
+    //         color: "#3776AB",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Pandas",
+    //       fontAwesomeClassname: "simple-icons:pandas",
+    //       style: {
+    //         backgroundColor: "transparent",
+    //         color: "#6E6E6E",
+    //       },
+    //     },
+    //   ],
+    // },
   ],
 };
 
@@ -352,135 +350,135 @@ const degrees = {
 
 const certifications = {
   certifications: [
-    {
-      title: "AWS Developer Associate",
-      subtitle: "Amazon Web Services",
-      logo_path: "aws.png",
-      certificate_link:
-        "https://www.credly.com/badges/b12fbece-07f3-47f5-9dda-cd56f49e250d/public_url",
-      alt_name: "AWS",
-      color_code: "#ffc475",
-    },
-    {
-      title: "AWS Certified Cloud Practioner",
-      subtitle: "Amazon Web Services",
-      logo_path: "aws.png",
-      certificate_link:
-        "https://www.credly.com/badges/8b2db191-702d-427c-91aa-0f926be447a6/public_url",
-      alt_name: "AWS",
-      color_code: "#ffc475",
-    },
-    {
-      title: "Google Summer of Code 2019",
-      subtitle: "Google / Sugar Labs",
-      logo_path: "google_logo.png",
-      certificate_link: " ",
-      alt_name: "Google",
-      color_code: "#ffc475",
-    },
-    {
-      title: "Google Code-In Student",
-      subtitle: "2014-2017",
-      logo_path: "google_logo.png",
-      certificate_link: " ",
-      alt_name: "Google",
-      color_code: "#1e70c1",
-    },
-    {
-      title: "Google Summer of Code Mentor",
-      subtitle: "2017 / 2018 / 2020",
-      logo_path: "google_logo.png",
-      certificate_link: " ",
-      alt_name: "Google",
-      color_code: "#ffbfae",
-    },
-    {
-      title: "Google Code-In Mentor",
-      subtitle: "2017 / 2018 / 2019",
-      logo_path: "google_logo.png",
-      certificate_link: " ",
-      alt_name: "Google",
-      color_code: "#b190b0",
-    },
-    {
-      title: "Deep Learning Specialization",
-      subtitle: "deeplearning.ai",
-      logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://coursera.org/share/737a9587023c666b8e6cb303157aaeba",
-      alt_name: "deeplearning.ai",
-      color_code: "#47A048",
-    },
-    {
-      title: "Sequence Models",
-      subtitle: "deeplearning.ai",
-      logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/FM5AKEZA9NUY",
-      alt_name: "deeplearning.ai",
-      color_code: "#F6B808",
-    },
-    {
-      title: "Convolutional Neural Networks",
-      subtitle: "deeplearning.ai",
-      logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/U8BLDNUT9UUM",
-      alt_name: "deeplearning.ai",
-      color_code: "#2AAFED",
-    },
-    {
-      title: "Structuring Machine Learning Projects",
-      subtitle: "deeplearning.ai",
-      logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/YLC25SJQKH3Y",
-      alt_name: "deeplearning.ai",
-      color_code: "#E2405F",
-    },
-    {
-      title: "Machine Learning",
-      subtitle: "deeplearning.ai",
-      logo_path: "stanford_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/records/72KY93DT82MP",
-      alt_name: "Stanford University",
-      color_code: "#8C151599",
-    },
-    {
-      title: "Neural Networks and Deep Learning",
-      subtitle: "deeplearning.ai",
-      logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/records/25JXRB2RWHRX",
-      alt_name: "Google",
-      color_code: "#7A7A7A",
-    },
-    {
-      title: "Improving Deep Neural Networks",
-      subtitle: "deeplearning.ai",
-      logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/records/PKR9M9LQ3JWC",
-      alt_name: "Google",
-      color_code: "#0C9D5899",
-    },
-    {
-      title: "Android Developer Nanodegree",
-      subtitle: "Part of Google India Scholarship Program",
-      logo_path: "100.png",
-      certificate_link: "https://graduation.udacity.com/confirm/HLE7K5V3",
-      alt_name: "Google",
-      color_code: "#C5E2EE",
-    },
-    {
-      title: "InOut 4.0 Winner #2",
-      subtitle: "2017",
-      logo_path: "ino.png",
-      certificate_link: " ",
-      alt_name: "InOut",
-      color_code: "#fffbf3",
-    },
+    // {
+    //   title: "AWS Developer Associate",
+    //   subtitle: "Amazon Web Services",
+    //   logo_path: "aws.png",
+    //   certificate_link:
+    //     "https://www.credly.com/badges/b12fbece-07f3-47f5-9dda-cd56f49e250d/public_url",
+    //   alt_name: "AWS",
+    //   color_code: "#ffc475",
+    // },
+    // {
+    //   title: "AWS Certified Cloud Practioner",
+    //   subtitle: "Amazon Web Services",
+    //   logo_path: "aws.png",
+    //   certificate_link:
+    //     "https://www.credly.com/badges/8b2db191-702d-427c-91aa-0f926be447a6/public_url",
+    //   alt_name: "AWS",
+    //   color_code: "#ffc475",
+    // },
+    // {
+    //   title: "Google Summer of Code 2019",
+    //   subtitle: "Google / Sugar Labs",
+    //   logo_path: "google_logo.png",
+    //   certificate_link: " ",
+    //   alt_name: "Google",
+    //   color_code: "#ffc475",
+    // },
+    // {
+    //   title: "Google Code-In Student",
+    //   subtitle: "2014-2017",
+    //   logo_path: "google_logo.png",
+    //   certificate_link: " ",
+    //   alt_name: "Google",
+    //   color_code: "#1e70c1",
+    // },
+    // {
+    //   title: "Google Summer of Code Mentor",
+    //   subtitle: "2017 / 2018 / 2020",
+    //   logo_path: "google_logo.png",
+    //   certificate_link: " ",
+    //   alt_name: "Google",
+    //   color_code: "#ffbfae",
+    // },
+    // {
+    //   title: "Google Code-In Mentor",
+    //   subtitle: "2017 / 2018 / 2019",
+    //   logo_path: "google_logo.png",
+    //   certificate_link: " ",
+    //   alt_name: "Google",
+    //   color_code: "#b190b0",
+    // },
+    // {
+    //   title: "Deep Learning Specialization",
+    //   subtitle: "deeplearning.ai",
+    //   logo_path: "deeplearning_ai_logo.png",
+    //   certificate_link:
+    //     "https://coursera.org/share/737a9587023c666b8e6cb303157aaeba",
+    //   alt_name: "deeplearning.ai",
+    //   color_code: "#47A048",
+    // },
+    // {
+    //   title: "Sequence Models",
+    //   subtitle: "deeplearning.ai",
+    //   logo_path: "deeplearning_ai_logo.png",
+    //   certificate_link:
+    //     "https://www.coursera.org/account/accomplishments/verify/FM5AKEZA9NUY",
+    //   alt_name: "deeplearning.ai",
+    //   color_code: "#F6B808",
+    // },
+    // {
+    //   title: "Convolutional Neural Networks",
+    //   subtitle: "deeplearning.ai",
+    //   logo_path: "deeplearning_ai_logo.png",
+    //   certificate_link:
+    //     "https://www.coursera.org/account/accomplishments/verify/U8BLDNUT9UUM",
+    //   alt_name: "deeplearning.ai",
+    //   color_code: "#2AAFED",
+    // },
+    // {
+    //   title: "Structuring Machine Learning Projects",
+    //   subtitle: "deeplearning.ai",
+    //   logo_path: "deeplearning_ai_logo.png",
+    //   certificate_link:
+    //     "https://www.coursera.org/account/accomplishments/verify/YLC25SJQKH3Y",
+    //   alt_name: "deeplearning.ai",
+    //   color_code: "#E2405F",
+    // },
+    // {
+    //   title: "Machine Learning",
+    //   subtitle: "deeplearning.ai",
+    //   logo_path: "stanford_logo.png",
+    //   certificate_link:
+    //     "https://www.coursera.org/account/accomplishments/records/72KY93DT82MP",
+    //   alt_name: "Stanford University",
+    //   color_code: "#8C151599",
+    // },
+    // {
+    //   title: "Neural Networks and Deep Learning",
+    //   subtitle: "deeplearning.ai",
+    //   logo_path: "deeplearning_ai_logo.png",
+    //   certificate_link:
+    //     "https://www.coursera.org/account/accomplishments/records/25JXRB2RWHRX",
+    //   alt_name: "Google",
+    //   color_code: "#7A7A7A",
+    // },
+    // {
+    //   title: "Improving Deep Neural Networks",
+    //   subtitle: "deeplearning.ai",
+    //   logo_path: "deeplearning_ai_logo.png",
+    //   certificate_link:
+    //     "https://www.coursera.org/account/accomplishments/records/PKR9M9LQ3JWC",
+    //   alt_name: "Google",
+    //   color_code: "#0C9D5899",
+    // },
+    // {
+    //   title: "Android Developer Nanodegree",
+    //   subtitle: "Part of Google India Scholarship Program",
+    //   logo_path: "100.png",
+    //   certificate_link: "https://graduation.udacity.com/confirm/HLE7K5V3",
+    //   alt_name: "Google",
+    //   color_code: "#C5E2EE",
+    // },
+    // {
+    //   title: "InOut 4.0 Winner #2",
+    //   subtitle: "2017",
+    //   logo_path: "ino.png",
+    //   certificate_link: " ",
+    //   alt_name: "InOut",
+    //   color_code: "#fffbf3",
+    // },
   ],
 };
 
@@ -637,7 +635,7 @@ const contactPageData = {
     title: "Blogs",
     subtitle:
       "I don't blog frequently but when I do something awesome, I do try my best to write a blog about it.",
-    link: "https://medium.com/@hrishipatel99",
+    link: "https://medium.com/@dhruvikpatel99",
     avatar_image_path: "blogs_image.svg",
   },
 };
@@ -646,7 +644,7 @@ const projects = {
   data: [
     {
       name: "CineScope",
-      url: "https://github.com/Hrishi1999/CineScope",
+      url: "https://github.com/dhruvik1999/CineScope",
       description: "An IMDB-like application.",
       languages: [
         {
@@ -689,7 +687,7 @@ const projects = {
     },
     {
       name: "RecipesAPI",
-      url: "https://rapidapi.com/Hrishi1999/api/recipesapi2",
+      url: "https://rapidapi.com/dhruvik1999/api/recipesapi2",
       description: "Get recipes for hundreds and thousands of dishes",
       languages: [
         {
@@ -704,7 +702,7 @@ const projects = {
     },
     {
       name: "opPortfolio",
-      url: "https://github.com/Hrishi1999/opPortfolio",
+      url: "https://github.com/dhruvik1999/opPortfolio",
       description: "(This) A clean and full customizable portfolio template.",
       languages: [
         {
@@ -755,7 +753,7 @@ const projects = {
     },
     {
       name: "Doorbell.io",
-      url: "https://github.com/Hrishi1999/Doorbell.io",
+      url: "https://github.com/dhruvik1999/Doorbell.io",
       description:
         "A sound-classifier webapp made with ReactJS + TensorflowJS.",
       languages: [
@@ -775,7 +773,7 @@ const projects = {
     },
     {
       name: "Video Summarization",
-      url: "https://github.com/Hrishi1999/Video-Summarization",
+      url: "https://github.com/dhruvik1999/Video-Summarization",
       description:
         "A video summarization webapp. A Flask-based backend which servers the Tensorflow model and a frontend made in ReactJS.",
       languages: [
@@ -799,7 +797,7 @@ const projects = {
     },
     {
       name: "Dashboard Activity",
-      url: "https://github.com/Hrishi1999/Dashboard.activity",
+      url: "https://github.com/dhruvik1999/Dashboard.activity",
       description:
         "Google Summer of Code project. A Dashboard activity for Sugar OS which tracks user activity so user can know where they use their most time and where they create most files.",
       languages: [

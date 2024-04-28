@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.753878e4.css",
-    "main.js": "/static/js/main.c625b7ba.js",
+    "main.js": "/static/js/main.2ee6f7cd.js",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.decfdcb63165be4a18b6.svg",
     "static/media/fa-brands-400.svg": "/static/media/fa-brands-400.d21386c92d7f4fbf03dc.svg",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
@@ -18,7 +18,7 @@
     "static/media/GoogleSans-Medium.ttf": "/static/media/GoogleSans-Medium.963c3e555aaada9ef8a9.ttf",
     "static/media/GoogleSans-Bold.ttf": "/static/media/GoogleSans-Bold.d907e4bf3e32637a636e.ttf",
     "static/media/stanford_logo.png": "/static/media/stanford_logo.33fa3b87ec7280dc3612.png",
-    "static/media/hrishi2.png": "/static/media/hrishi2.8b14576393a51386502e.png",
+    "static/media/dhruvik2.png": "/static/media/dhruvik2.8b14576393a51386502e.png",
     "static/media/fa-solid-900.woff": "/static/media/fa-solid-900.3ef4f1acb44a2df412bf.woff",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/deeplearning_ai_logo.png": "/static/media/deeplearning_ai_logo.4e39076ffaf46149fde6.png",
@@ -43,10 +43,10 @@
     "static/media/buld.jpg": "/static/media/buld.55444b9789a64f32e2e5.jpg",
     "index.html": "/index.html",
     "main.753878e4.css.map": "/static/css/main.753878e4.css.map",
-    "main.c625b7ba.js.map": "/static/js/main.c625b7ba.js.map"
+    "main.2ee6f7cd.js.map": "/static/js/main.2ee6f7cd.js.map"
   },
   "entrypoints": [
     "static/css/main.753878e4.css",
-    "static/js/main.c625b7ba.js"
+    "static/js/main.2ee6f7cd.js"
   ]
 }
