@@ -1,11 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.753878e4.css",
-    "main.js": "/static/js/main.2ee6f7cd.js",
+    "main.css": "/static/css/main.30998199.css",
+    "main.js": "/static/js/main.65c02803.js",
+    "static/media/dhruvik2.jpg": "/static/media/dhruvik2.9da7e984d84f3a79781d.jpg",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.decfdcb63165be4a18b6.svg",
     "static/media/fa-brands-400.svg": "/static/media/fa-brands-400.d21386c92d7f4fbf03dc.svg",
+    "static/media/netpair.png": "/static/media/netpair.4d44e51e3557dcb5e4c7.png",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/ino.png": "/static/media/ino.adcd3743af4c9c5e57b5.png",
+    "static/media/TSC.png": "/static/media/TSC.106401317af25776cc61.png",
     "static/media/fa-solid-900.eot": "/static/media/fa-solid-900.d93bcbbb0fbfad39d905.eot",
     "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.aae41ea25bd0dde9f796.ttf",
     "static/media/fa-regular-400.svg": "/static/media/fa-regular-400.68bba3adb61c08195530.svg",
@@ -18,7 +21,6 @@
     "static/media/GoogleSans-Medium.ttf": "/static/media/GoogleSans-Medium.963c3e555aaada9ef8a9.ttf",
     "static/media/GoogleSans-Bold.ttf": "/static/media/GoogleSans-Bold.d907e4bf3e32637a636e.ttf",
     "static/media/stanford_logo.png": "/static/media/stanford_logo.33fa3b87ec7280dc3612.png",
-    "static/media/dhruvik2.png": "/static/media/dhruvik2.8b14576393a51386502e.png",
     "static/media/fa-solid-900.woff": "/static/media/fa-solid-900.3ef4f1acb44a2df412bf.woff",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/deeplearning_ai_logo.png": "/static/media/deeplearning_ai_logo.4e39076ffaf46149fde6.png",
@@ -40,13 +42,15 @@
     "static/media/aws.png": "/static/media/aws.ecf81df776e8cbac01bf.png",
     "static/media/cra.png": "/static/media/cra.4c1d7efd4bc9d4d40901.png",
     "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.e5917ad1531005ea8c3f.woff2",
+    "static/media/ksv.png": "/static/media/ksv.a5744ed54c9dd92e81e4.png",
     "static/media/buld.jpg": "/static/media/buld.55444b9789a64f32e2e5.jpg",
+    "static/media/navintaa.webp": "/static/media/navintaa.ab05960652c07b184267.webp",
     "index.html": "/index.html",
-    "main.753878e4.css.map": "/static/css/main.753878e4.css.map",
-    "main.2ee6f7cd.js.map": "/static/js/main.2ee6f7cd.js.map"
+    "main.30998199.css.map": "/static/css/main.30998199.css.map",
+    "main.65c02803.js.map": "/static/js/main.65c02803.js.map"
   },
   "entrypoints": [
-    "static/css/main.753878e4.css",
-    "static/js/main.2ee6f7cd.js"
+    "static/css/main.30998199.css",
+    "static/js/main.65c02803.js"
   ]
 }
