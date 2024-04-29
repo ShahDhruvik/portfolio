@@ -25,7 +25,8 @@
     "react-scripts": "^5.0.1",
     "styled-components": "^5.2.1",
     "styletron-engine-atomic": "^1.4.6",
-    "styletron-react": "^6.1.0"
+    "styletron-react": "^6.1.0",
+    "yarn": "^1.22.22"
   },
   "optionalDependencies": {
     "fsevents": "^2.3.2"
