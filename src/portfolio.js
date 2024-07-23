@@ -36,8 +36,8 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive website front end using ReactJS and Angular",
-        "⚡ Developing mobile applications using Flutter and native Android",
+        "⚡ Building responsive website front end using ReactJS and NextJs",
+        "⚡ Consistently  apply knowledge of the latest libraries and frameworks",
         "⚡ Backend development using NodeJS, ExpressJS and Flask",
       ],
       softwareSkills: [
@@ -63,70 +63,22 @@ const skills = {
             color: "#F7DF1E",
           },
         },
-        // {
-        //   skillName: "PHP",
-        //   fontAwesomeClassname: "simple-icons:php",
-        //   style: {
-        //     color: "#7377AD",
-        //   },
-        // },
-        // {
-        //   skillName: "Java",
-        //   fontAwesomeClassname: "simple-icons:java",
-        //   style: {
-        //     color: "#f89820",
-        //   },
-        // },
-        // {
-        //   skillName: "Kotlin",
-        //   fontAwesomeClassname: "simple-icons:kotlin",
-        //   style: {
-        //     color: "#5c79df",
-        //   },
-        // },
-        // {
-        //   skillName: "Dart",
-        //   fontAwesomeClassname: "simple-icons:dart",
-        //   style: {
-        //     color: "#29B0EE",
-        //   },
-        // },
-        // {
-        //   skillName: "Go",
-        //   fontAwesomeClassname: "simple-icons:go",
-        //   style: {
-        //     color: "#00A7D0",
-        //   },
-        // },
-        // {
-        //   skillName: "Visual Basic",
-        //   fontAwesomeClassname: "simple-icons:dot-net",
-        //   style: {
-        //     color: "#029FCE",
-        //   },
-        // },
-        // {
-        //   skillName: "C#",
-        //   fontAwesomeClassname: "simple-icons:csharp",
-        //   style: {
-        //     backgroundColor: "transparent",
-        //     color: "#3776AB",
-        //   },
-        // },
-        // {
-        //   skillName: "C",
-        //   fontAwesomeClassname: "simple-icons:c",
-        //   style: {
-        //     color: "#E94E32",
-        //   },
-        // },
-        // {
-        //   skillName: "C++",
-        //   fontAwesomeClassname: "simple-icons:cplusplus",
-        //   style: {
-        //     color: "#E94E32",
-        //   },
-        // },
+        {
+          skillName: "Socket.io",
+          fontAwesomeClassname: "simple-icons:socketdotio",
+          style: {
+            color: "#FFFFFF",
+          },
+        },
+
+        {
+          skillName: "Go",
+          fontAwesomeClassname: "simple-icons:go",
+          style: {
+            color: "#00A7D0",
+          },
+        },
+
         {
           skillName: "ReactJS",
           fontAwesomeClassname: "simple-icons:react",
@@ -145,9 +97,9 @@ const skills = {
         },
         {
           skillName: "NodeJS",
-          fontAwesomeClassname: "simple-icons:node-dot-js",
+          fontAwesomeClassname: "simple-icons:nodedotjs",
           style: {
-            color: "#339933",
+            color: "#FFFFFF",
           },
         },
         {
@@ -157,27 +109,7 @@ const skills = {
             color: "#439743",
           },
         },
-        // {
-        //   skillName: "GraphQL",
-        //   fontAwesomeClassname: "simple-icons:graphql",
-        //   style: {
-        //     color: "#DE33A6",
-        //   },
-        // },
-        // {
-        //   skillName: "Android App Development",
-        //   fontAwesomeClassname: "simple-icons:android",
-        //   style: {
-        //     color: "#3DDC84",
-        //   },
-        // },
-        // {
-        //   skillName: "Flutter",
-        //   fontAwesomeClassname: "simple-icons:flutter",
-        //   style: {
-        //     color: "#02569B",
-        //   },
-        // },
+
         {
           skillName: "MySQL",
           fontAwesomeClassname: "simple-icons:mysql",
@@ -185,20 +117,65 @@ const skills = {
             color: "#4479A1",
           },
         },
+        {
+          skillName: "Daisy UI",
+          fontAwesomeClassname: "simple-icons:daisyui",
+          style: {
+            backgroundColor: "#FFFFFF",
+            color: "#4479A1",
+            padding: 3,
+            borderRadius: 10,
+          },
+        },
+        {
+          skillName: "Formik",
+          fontAwesomeClassname: "simple-icons:formik",
+          style: {
+            color: "#FFFFFF",
+          },
+        },
+        {
+          skillName: "React Hook Form",
+          fontAwesomeClassname: "simple-icons:reacthookform",
+          style: {
+            color: "#EC5990",
+          },
+        },
 
-        // {
-        //   skillName: "Wordpress",
-        //   fontAwesomeClassname: "simple-icons:wordpress",
-        //   style: {
-        //     color: "#207297",
-        //   },
-        // },
+        {
+          skillName: "PostgreSql",
+          fontAwesomeClassname: "simple-icons:postgresql",
+          style: {
+            color: "#207297",
+          },
+        },
+        {
+          skillName: "Strapi",
+          fontAwesomeClassname: "simple-icons:strapi",
+          style: {
+            color: "#4945FF",
+          },
+        },
+        {
+          skillName: "Material UI",
+          fontAwesomeClassname: "simple-icons:mui",
+          style: {
+            color: "#FFFFFF",
+          },
+        },
 
         {
           skillName: "Git",
           fontAwesomeClassname: "simple-icons:git",
           style: {
             color: "#E94E32",
+          },
+        },
+        {
+          skillName: "Tailwind CSS",
+          fontAwesomeClassname: "simple-icons:tailwindcss",
+          style: {
+            color: "#FFFFFF",
           },
         },
       ],
@@ -208,10 +185,9 @@ const skills = {
       title: "Cloud Infra-Architecture",
       fileName: "CloudInfraImg",
       skills: [
-        "⚡ Certified AWS Developer Associate and Cloud Practioner",
+        "⚡ Experienced AWS Developer Associate and Cloud Practioner",
         "⚡ Experience working on multiple cloud platforms",
         "⚡ Experience hosting and managing web apps on GCP and AWS",
-        "⚡ Deploying deep learning models on cloud to use on mobile devices",
       ],
       softwareSkills: [
         {
@@ -222,19 +198,34 @@ const skills = {
           },
         },
         {
+          skillName: "Amazon Route 53",
+          fontAwesomeClassname: "simple-icons:amazonroute53",
+          style: {
+            color: "#FFFFFF",
+          },
+        },
+        {
+          skillName: "Amazon EC2",
+          fontAwesomeClassname: "simple-icons:amazonec2",
+          style: {
+            color: "#FFFFFF",
+          },
+        },
+        {
+          skillName: "Hostinger",
+          fontAwesomeClassname: "simple-icons:hostinger",
+          style: {
+            color: "#FFFFFF",
+          },
+        },
+        {
           skillName: "AWS",
           fontAwesomeClassname: "simple-icons:amazonaws",
           style: {
             color: "#FF9900",
           },
         },
-        {
-          skillName: "Netlify",
-          fontAwesomeClassname: "simple-icons:netlify",
-          style: {
-            color: "#38AFBB",
-          },
-        },
+
         {
           skillName: "Heroku",
           fontAwesomeClassname: "simple-icons:heroku",
@@ -319,6 +310,19 @@ const skills = {
 
 const degrees = {
   degrees: [
+    {
+      title: "University Of Western Australia",
+      subtitle: "Masters in information technology",
+      logo_path: "uwa.png",
+      alt_name: "UWA",
+      duration: "2024 - current",
+      descriptions: [
+        "⚡ Studying Cyber Security & Deep Learning",
+        "⚡ Learning Advanced Topics in Cloud Computing, Cloud Architecture along with Serverless Computing",
+        "⚡ Other units to learn are Agile Web Development, Internet of Things.",
+      ],
+      website_link: "https://www.uwa.edu.au/",
+    },
     {
       title: "Vidush Somany Institute of Technology & Research",
       subtitle: "Bachelor in Computer Science Engineering",
@@ -474,7 +478,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "I've completed two internships. I've mostly done projects on my own and I am actively looking for internships. I love organizing workshops to share my knowledge with others.",
+    "I've completed one internships. I've done many projects on my own and I've worked as an IT professional for more than 1.5 years.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -482,24 +486,24 @@ const experience = {
       experiences: [
         {
           title: "Full-stack Developer",
-          company: "Netpair",
-          company_url: "https://netpairinfotech.com/",
-          logo_path: "netpair.png",
-          duration: "Dec 2022 - Ongoing",
+          company: "Navintaa",
+          company_url: "",
+          logo_path: "",
+          duration: "Aug 2023 - July 2024",
           location: "Ahmedabad",
           description:
-            "Netpair Infotech is a leading Global Tech. Company headquartered in Gujarat, India. We deliver a wide range of services and solutions.",
-          color: "#f10000",
+            "Worked as an full stack developer and  developed a comprehensive system that encompasses various aspects of medical services.",
+          color: "#2962FF",
         },
         {
           title: "Full-stack Developer",
-          company: "Navintaa",
-          company_url: "https://www.navinta.com",
-          logo_path: "navintaa.webp",
-          duration: "June 2023 - Onging",
+          company: "Netpair Infotech",
+          company_url: "https://netpairinfotech.com/",
+          logo_path: "netpair.png",
+          duration: "Apr 2023 - Aug 2023",
           location: "Ahmedabad",
           description:
-            "Navinta, LLC is a privately held generic pharmaceutical company, established in 2003, dedicated to developing and commercializing pharmaceutical products to treat patients with chronic diseases. ",
+            "Worked as an full stack developer and  developed many websites.",
           color: "#2962FF",
         },
       ],
@@ -508,97 +512,18 @@ const experience = {
       title: "Internships",
       experiences: [
         {
-          title: "Web Development Course ",
+          title: "Web Development Internship ",
           company: "The Special Character",
           company_url: "https://thespecialcharacter.com/",
           logo_path: "TSC.png",
-          duration: "Dec 2021 - Sep 2022",
+          duration: "Jan 2023 - Apr 2023",
           location: "Ahmedabad",
           description:
             "I worked on the Buisness Card project which helps users track and explore their communications.",
           color: "#ee3c26",
         },
-        // {
-        //   title: "Android App Developer Intern",
-        //   company: "IAS4Sure",
-        //   company_url: " ",
-        //   logo_path: "buld.jpg",
-        //   duration: "December 2019 - February 2020",
-        //   location: "Work From Home",
-        //   description:
-        //     "Internship task was to make a native Android application. ",
-        //   color: "#0071C5",
-        // },
-        // {
-        //   title: "Web Developer",
-        //   company: "Wrighter Writing Solutions",
-        //   company_url: " ",
-        //   logo_path: "wrighter.jpg",
-        //   duration: "August 2020",
-        //   location: "",
-        //   description: "Develop a website using PHP and jQuery.",
-        //   color: "#56A4D3",
-        // },
-        // {
-        //   title: "Front-End Developer",
-        //   company: "VJ TechServe",
-        //   company_url: " ",
-        //   logo_path: "vjt.png",
-        //   duration: "September 2020",
-        //   location: "",
-        //   description: "Develop a portfolio website using ReactJS",
-        //   color: "#800000",
-        // },
       ],
     },
-    // {
-    //   title: "Volunteerships",
-    //   experiences: [
-    //     {
-    //       title: "Google Summer of Code Mentor",
-    //       company: "Sugar Labs / GSoC",
-    //       company_url: "https://sugarlabs.org/",
-    //       logo_path: "google_logo.png",
-    //       duration: "Summer of 2017 / 18 / 20",
-    //       location: " ",
-    //       description:
-    //         "Mentorship responsibilities were to help students plan the project, review issues and pull requests, ensure smooth progress and help them out when they are stuck.",
-    //       color: "#4285F4",
-    //     },
-    //     {
-    //       title: "Google Code-In Mentor",
-    //       company: "Sugar Labs / GSoC",
-    //       company_url: "https://sugarlabs.org/",
-    //       logo_path: "google_logo.png",
-    //       duration: "Winter of 2017 / 18 / 19",
-    //       location: " ",
-    //       description:
-    //         "Day to day resposibilites of this mentorship was to help out children aged 13-17 get started with programming and open-source, review their work and approve them.",
-    //       color: "#D83B01",
-    //     },
-    //     {
-    //       title: "Board Member at Codeuino",
-    //       company: " ",
-    //       company_url: " ",
-    //       logo_path: "codeuino.jpg",
-    //       duration: "2018 - 2019",
-    //       location: " ",
-    //       description: "Previous Board during early days of Codeuino",
-    //       color: "#D83B01",
-    //     },
-    //     {
-    //       title: "BluWings Club",
-    //       company: " ",
-    //       company_url: " ",
-    //       logo_path: "b.png",
-    //       duration: "2018 - On Going",
-    //       location: " ",
-    //       description:
-    //         "Co-Founder and President of the programming club called BluWings. Have organized several workshops which introduced programming and related tools to freshers.",
-    //       color: "#D83B01",
-    //     },
-    //   ],
-    // },
   ],
 };
 
@@ -606,7 +531,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects. Below are some of my projects. Note that not all of the mentioned projects are on GitHub yet.",
+    "My projects makes use of vast variety of latest technology tools. My best experience is to create robust web applications . Below are some of my projects.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -630,14 +555,10 @@ const contactPageData = {
 const projects = {
   data: [
     {
-      name: "CineScope",
-      url: "https://github.com/dhruvik1999/CineScope",
-      description: "An IMDB-like application.",
+      name: "New touch",
+      url: "/",
+      description: "An skin care application.",
       languages: [
-        {
-          name: "React.js",
-          iconifyClass: "logos-react",
-        },
         {
           name: "TypeScript",
           iconifyClass: "devicon-typescript",
@@ -645,6 +566,10 @@ const projects = {
         {
           name: "Node.js",
           iconifyClass: "devicon-nodejs",
+        },
+        {
+          name: "Next.js",
+          iconifyClass: "devicon-nextjs",
         },
         {
           name: "Express.js",
@@ -657,184 +582,228 @@ const projects = {
       ],
     },
     {
-      name: "Journalify",
-      url: "https://play.google.com/store/apps/details?id=com.picle.journalify",
+      name: "The special character",
+      url: "/",
+      description: "An application for course training center",
+      languages: [
+        {
+          name: "TypeScript",
+          iconifyClass: "devicon-typescript",
+        },
+
+        {
+          name: "Next.js",
+          iconifyClass: "devicon-nextjs",
+        },
+        {
+          name: "Tailwind CSS",
+          iconifyClass: "devicon-tailwindcss",
+        },
+      ],
+    },
+    {
+      name: "Traina Health Admin Portal",
+      url: "https://admin-dev.oopchar.com/auth/login",
       description:
-        "You personal journaling companion, goals & daily challenges! About 5k+ downloads on Play Store.",
+        "An admin portal to manage all the other portals connected with.",
       languages: [
         {
-          name: "Flutter",
-          iconifyClass: "logos-flutter",
+          name: "ReactJs",
+          iconifyClass: "devicon-react",
+        },
+
+        {
+          name: "Vite",
+          iconifyClass: "devicon-vitejs",
         },
         {
-          name: "Firebase",
-          iconifyClass: "logos-firebase",
+          name: "NodeJs",
+          iconifyClass: "devicon-nodejs",
+        },
+        {
+          name: "Postgresql",
+          iconifyClass: "devicon-postgresql",
+        },
+        {
+          name: "Mongodb",
+          iconifyClass: "devicon-mongodb",
+        },
+        {
+          name: "Socket.io",
+          iconifyClass: "devicon-socketio",
+        },
+        {
+          name: "Sequelize",
+          iconifyClass: "devicon-sequelize",
         },
       ],
     },
     {
-      name: "RecipesAPI",
-      url: "https://rapidapi.com/dhruvik1999/api/recipesapi2",
-      description: "Get recipes for hundreds and thousands of dishes",
-      languages: [
-        {
-          name: "NodeJS",
-          iconifyClass: "logos-nodejs",
-        },
-        {
-          name: "JavaScript",
-          iconifyClass: "logos-javascript",
-        },
-      ],
-    },
-    {
-      name: "opPortfolio",
-      url: "https://github.com/dhruvik1999/opPortfolio",
-      description: "(This) A clean and full customizable portfolio template.",
-      languages: [
-        {
-          name: "ReactJS",
-          iconifyClass: "logos-react",
-        },
-      ],
-    },
-    {
-      name: "Cab Security System",
-      url: " ",
+      name: "Traina Health Clinic Portal",
+      url: "https://clinic-dev.oopchar.com/auth/log-in",
       description:
-        "Driver drowsiness detection, profanity detection, violence detection, SMS alerts, cab driver tracking.",
+        "An portal to manage the clinic that are joined with the organization.",
       languages: [
         {
-          name: "Python",
-          iconifyClass: "logos-python",
+          name: "ReactJs",
+          iconifyClass: "devicon-react",
+        },
+
+        {
+          name: "Vite",
+          iconifyClass: "devicon-vitejs",
         },
         {
-          name: "Tensorflow",
-          iconifyClass: "logos-tensorflow",
+          name: "NodeJs",
+          iconifyClass: "devicon-nodejs",
         },
         {
-          name: "OpenCV",
-          iconifyClass: "logos-opencv",
+          name: "Postgresql",
+          iconifyClass: "devicon-postgresql",
+        },
+        {
+          name: "Mongodb",
+          iconifyClass: "devicon-mongodb",
+        },
+        {
+          name: "Socket.io",
+          iconifyClass: "devicon-socketio",
+        },
+        {
+          name: "Sequelize",
+          iconifyClass: "devicon-sequelize",
         },
       ],
     },
     {
-      name: "Lensinator",
-      url: " ",
+      name: "Traina Health Patient Portal",
+      url: "https://patient-dev.oopchar.com/",
       description:
-        "Published on Play Store back in 2017, crossed 55K downloads. Performed object detection, image captioning, OCR, handwritten OCR, barcode and QR code scanning with product information.",
+        "An portal to manage the patient that are joined with the clinic and an organization.",
       languages: [
         {
-          name: "JavaScript",
-          iconifyClass: "logos-java",
+          name: "ReactJs",
+          iconifyClass: "devicon-react",
         },
         {
-          name: "Python",
-          iconifyClass: "logos-python",
+          name: "Vite",
+          iconifyClass: "devicon-vitejs",
         },
         {
-          name: "Firebase",
-          iconifyClass: "logos-firebase",
+          name: "NodeJs",
+          iconifyClass: "devicon-nodejs",
+        },
+        {
+          name: "Postgresql",
+          iconifyClass: "devicon-postgresql",
+        },
+        {
+          name: "Mongodb",
+          iconifyClass: "devicon-mongodb",
+        },
+        {
+          name: "Socket.io",
+          iconifyClass: "devicon-socketio",
+        },
+        {
+          name: "Sequelize",
+          iconifyClass: "devicon-sequelize",
         },
       ],
     },
     {
-      name: "Doorbell.io",
-      url: "https://github.com/dhruvik1999/Doorbell.io",
+      name: "Traina Health Provider Portal",
+      url: "https://provider-dev.oopchar.com/",
       description:
-        "A sound-classifier webapp made with ReactJS + TensorflowJS.",
+        "An portal to manage the provider that are joined with the specific clinic and their own individual practice.",
       languages: [
         {
-          name: "Python",
-          iconifyClass: "logos-python",
+          name: "ReactJs",
+          iconifyClass: "devicon-react",
         },
         {
-          name: "ReactJS",
-          iconifyClass: "logos-react",
+          name: "Vite",
+          iconifyClass: "devicon-vitejs",
         },
         {
-          name: "TensorflowJS",
-          iconifyClass: "logos-tensorflow",
+          name: "NodeJs",
+          iconifyClass: "devicon-nodejs",
+        },
+        {
+          name: "Postgresql",
+          iconifyClass: "devicon-postgresql",
+        },
+        {
+          name: "Mongodb",
+          iconifyClass: "devicon-mongodb",
+        },
+        {
+          name: "Socket.io",
+          iconifyClass: "devicon-socketio",
+        },
+        {
+          name: "Sequelize",
+          iconifyClass: "devicon-sequelize",
         },
       ],
     },
     {
-      name: "Video Summarization",
-      url: "https://github.com/dhruvik1999/Video-Summarization",
+      name: "Traina Health Oopchar Portal",
+      url: "https://dev.oopchar.com/",
       description:
-        "A video summarization webapp. A Flask-based backend which servers the Tensorflow model and a frontend made in ReactJS.",
+        "An portal to manage the provider that are joined with the specific clinic and their own individual practice.",
       languages: [
         {
-          name: "JavaScript",
-          iconifyClass: "logos-javascript",
+          name: "ReactJs",
+          iconifyClass: "devicon-react",
         },
         {
-          name: "Python",
-          iconifyClass: "logos-python",
+          name: "Vite",
+          iconifyClass: "devicon-vitejs",
         },
         {
-          name: "ReactJS",
-          iconifyClass: "logos-react",
+          name: "NodeJs",
+          iconifyClass: "devicon-nodejs",
         },
         {
-          name: "Tensorflow",
-          iconifyClass: "logos-tensorflow",
+          name: "Postgresql",
+          iconifyClass: "devicon-postgresql",
+        },
+        {
+          name: "Mongodb",
+          iconifyClass: "devicon-mongodb",
+        },
+        {
+          name: "Socket.io",
+          iconifyClass: "devicon-socketio",
+        },
+        {
+          name: "Sequelize",
+          iconifyClass: "devicon-sequelize",
         },
       ],
     },
     {
-      name: "Dashboard Activity",
-      url: "https://github.com/dhruvik1999/Dashboard.activity",
+      name: "Traina Health Forms",
+      url: "https://dev.oopchar.com/",
       description:
-        "Google Summer of Code project. A Dashboard activity for Sugar OS which tracks user activity so user can know where they use their most time and where they create most files.",
+        "An portal to manage the patient response over any situations. Also helps in taking the medical responses of the patient.",
       languages: [
         {
-          name: "Python",
-          iconifyClass: "logos-python",
-        },
-      ],
-    },
-    {
-      name: "Project Pickle",
-      url: " ",
-      description:
-        "An app similar to Uber Eats but targeted for Gruhudhyogs (homemade pickles and products). Order management, live order tracking, rating and reviews system, etc.",
-      languages: [
-        {
-          name: "Java",
-          iconifyClass: "logos-java",
+          name: "Javascript",
+          iconifyClass: "devicon-javascript",
         },
         {
-          name: "Firebase",
-          iconifyClass: "logos-firebase",
+          name: "Node.js",
+          iconifyClass: "devicon-nodejs",
         },
         {
-          name: "Python",
-          iconifyClass: "logos-python",
-        },
-      ],
-    },
-    {
-      name: "Project Health Card",
-      url: "",
-      description:
-        "An aadhard-card like utility card which keeps track of all your health records suchs as: Medicines, Lab Reports, Recent Diseases, Allergies, etc.",
-      languages: [
-        {
-          name: "JavaScript",
-          iconifyClass: "logos-java",
+          name: "Next.js",
+          iconifyClass: "devicon-nextjs",
         },
         {
-          name: "Python",
-          iconifyClass: "logos-python",
-        },
-        {
-          name: "Firebase",
-          iconifyClass: "logos-firebase",
-        },
-        {
-          name: "ReactJS",
-          iconifyClass: "logos-react",
+          name: "Express.js",
+          iconifyClass: "devicon-express",
         },
         {
           name: "MongoDB",
@@ -843,150 +812,114 @@ const projects = {
       ],
     },
     {
-      name: "Food Classifier",
-      url: " ",
+      name: "Traina Health Forms",
+      url: "https://forms-dev.triainahealth.com/",
       description:
-        "A food classifier app using tflite which classfier over 50 Indian Dishes.",
+        "An portal to manage the patient response over any situations. Also helps in taking the medical responses of the patient.",
       languages: [
         {
-          name: "Flutter",
-          iconifyClass: "logos-flutter",
+          name: "Javascript",
+          iconifyClass: "devicon-javascript",
         },
         {
-          name: "Dart",
-          iconifyClass: "logos-dart",
+          name: "Node.js",
+          iconifyClass: "devicon-nodejs",
         },
         {
-          name: "Tensorflow",
-          iconifyClass: "logos-tensorflow",
+          name: "Next.js",
+          iconifyClass: "devicon-nextjs",
         },
         {
-          name: "Jupyter Notebook",
-          iconifyClass: "logos-jupyter",
+          name: "Express.js",
+          iconifyClass: "devicon-express",
+        },
+        {
+          name: "MongoDB",
+          iconifyClass: "logos-mongodb",
         },
       ],
     },
     {
-      name: "Image Clustering",
-      url: " ",
+      name: "Traina Health Reviews",
+      url: "https://reviews-dev.triainahealth.com/",
       description:
-        "A simple use of K-Means Clustering algorithm to sort images by automatically predicting number of classes. This can be used to clean an image dataset.",
+        "An portal to manage the patient reviews on the services provided to them by the provider.",
       languages: [
         {
-          name: "Python",
-          iconifyClass: "logos-python",
+          name: "Javascript",
+          iconifyClass: "devicon-javascript",
         },
         {
-          name: "Jupyter Notebook",
-          iconifyClass: "logos-jupyter",
+          name: "Node.js",
+          iconifyClass: "devicon-nodejs",
+        },
+        {
+          name: "Next.js",
+          iconifyClass: "devicon-nextjs",
+        },
+        {
+          name: "Express.js",
+          iconifyClass: "devicon-express",
+        },
+        {
+          name: "MongoDB",
+          iconifyClass: "logos-mongodb",
         },
       ],
     },
     {
-      name: "Antivirus",
-      url: " ",
+      name: "Dropikme",
+      url: "https://dropikme.com/",
       description:
-        "A project from 2012. Made an antivirus with realtime scanning. Implemented by using comparison of md5 hashes.",
+        "An portal that provides the management of the monthly or yearly subscription of an transportation provider.",
       languages: [
         {
-          name: "Visual Basic",
-          iconifyClass: "logos-dotnet",
+          name: "Javascript",
+          iconifyClass: "devicon-javascript",
+        },
+        {
+          name: "Node.js",
+          iconifyClass: "devicon-nodejs",
+        },
+        {
+          name: "Next.js",
+          iconifyClass: "devicon-nextjs",
+        },
+        {
+          name: "Express.js",
+          iconifyClass: "devicon-express",
+        },
+        {
+          name: "MongoDB",
+          iconifyClass: "logos-mongodb",
         },
       ],
     },
     {
-      name: "Sugar on Windows",
-      url: " ",
+      name: "DMMS System AIA Engineering",
+      url: "/",
       description:
-        "Run and setup Sugar OS to be able to run on Windows using Windows Subsystem for Linux",
+        "A system for coal mining company that manages the staff and all the commodities that are given or managed by the staff.",
       languages: [
         {
-          name: "Visual Basic",
-          iconifyClass: "logos-dotnet",
+          name: "TypeScript",
+          iconifyClass: "devicon-typescript",
         },
         {
-          name: "Python",
-          iconifyClass: "logos-python",
-        },
-      ],
-    },
-    {
-      name: "Object + Face Detection",
-      url: " ",
-      description: "2017 project. Object detection + accurate face detection.",
-      languages: [
-        {
-          name: "Python",
-          iconifyClass: "logos-python",
+          name: "Node.js",
+          iconifyClass: "devicon-nodejs",
         },
         {
-          name: "Tensorflow",
-          iconifyClass: "logos-tensorflow",
+          name: "Next.js",
+          iconifyClass: "devicon-nextjs",
         },
         {
-          name: "OpenCV",
-          iconifyClass: "logos-opencv",
-        },
-      ],
-    },
-    {
-      name: "Image Captioning with Visual Attention",
-      url: " ",
-      description: "Ongoing. Used MSCOCO 2014/2017 for image captioning.",
-      languages: [
-        {
-          name: "Python",
-          iconifyClass: "logos-python",
+          name: "Express.js",
+          iconifyClass: "devicon-express",
         },
         {
-          name: "Tensorflow",
-          iconifyClass: "logos-tensorflow",
-        },
-        {
-          name: "Jupyter Notebook",
-          iconifyClass: "logos-jupyter",
-        },
-      ],
-    },
-    {
-      name: "DalSocial",
-      url: " ",
-      description:
-        "An Android app to meet new people in the university, organize and join events. ",
-      languages: [
-        {
-          name: "Kotlin",
-          iconifyClass: "simple-icons:kotlin",
-          color: "#F18E33",
-        },
-        {
-          name: "Android",
-          iconifyClass: "simple-icons:android",
-          color: "#3DDC84",
-        },
-        {
-          name: "Firebase",
-          iconifyClass: "logos-firebase",
-        },
-      ],
-    },
-    {
-      name: "HalifaxFoodie",
-      url: " ",
-      description:
-        "CSCI5410 Project. A multi-client recipe app for Halifax Foodies.",
-      languages: [
-        {
-          name: "ReactJS",
-          iconifyClass: "logos-react",
-        },
-        {
-          name: "AWS",
-          iconifyClass: "logos-aws",
-        },
-        {
-          name: "Google Cloud",
-          iconifyClass: "logos-google-cloud",
+          name: "MongoDB",
+          iconifyClass: "logos-mongodb",
         },
       ],
     },
